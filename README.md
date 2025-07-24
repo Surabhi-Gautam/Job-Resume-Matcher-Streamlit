@@ -12,7 +12,7 @@ User-Friendly Interface: Built with Streamlit, offering an intuitive web-based i
 
 Detailed View: Users can expand each resume entry in the results to view its original extracted text content.
 
-🛠️ Technologies Used
+Technologies Used
 Python: The core programming language for the application logic.
 
 Streamlit: For building the interactive and responsive web user interface.
